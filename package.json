@@ -9,7 +9,7 @@
     "lint": "npx eslint --fix \"src/**/*.js\""
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/M4cr0s3/test-exercise"
   },
   "engines": {
     "node": ">=20.0.10"
